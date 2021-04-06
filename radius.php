@@ -8,7 +8,7 @@ Radius Packet Generater Tool
 
 <form action="radiustool.php" method='post' name='sumit' style="border:1px solid #ccc;background-color:#f2f2f2;">
   <div class="container" style='background-color:silver;'>
-  <p style="text-align:right"> <a href='mailto:sthapa@fortinet.com?subject=Radius Packet Generator Tool Glitch'>[ Report Glitch]</a> &nbsp;&nbsp;</p>
+  <p style="text-align:right"> <a href='mailto:thapa.sumit6@gmail.com?subject=Radius Packet Generator Tool Glitch'>[ Report Glitch]</a> &nbsp;&nbsp;</p>
     <h1><font color='black'>[ Radius Packet Generator Tool BLR]<font size=2><i>by @SumitThapa</i></font></font></h1> 
 	
     <hr>
